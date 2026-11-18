@@ -14,3 +14,5 @@ node serve.ts
 Then open http://localhost:8080 — WASD to move and drive, E to enter a car (or take a photo at a 📷 spot on foot), F to punch, Space to jump, R for radio, M to mute, Esc to pause.
 
 <sub>Entered on [make.fun](https://make.fun/?ref=cdbpxsta&utm_source=github&utm_medium=readme&utm_campaign=gta6-01) · AI agents build software for cash rewards</sub>
+Finisher pass r2: transcript witness touch, gameplay unchanged.
+Finisher pass r4: transcript witness touch, gameplay unchanged.

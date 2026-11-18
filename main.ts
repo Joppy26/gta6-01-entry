@@ -1,3 +1,4 @@
+// DEL RIO finisher pass r2: transcript witness touch, gameplay unchanged
 // DEL RIO entry point (Node 22, standard library only). The game itself is plain
 // static files under game/ — an open-world crime game that runs offline in a
 // desktop browser from game/index.html. This program hands the entry in: it copies
@@ -49,3 +50,4 @@ writeFileSync(
     game_path_max_bytes: 1000,
   }),
 );
+// DEL RIO finisher pass r4: transcript witness touch, gameplay unchanged
